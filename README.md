@@ -11,7 +11,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="GBL-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="GBL-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/d076e3259081cdf2c5ac852be9ff8d8b.gif" width="200" height="200" border="border-radius:50px;" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"
+  <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/d076e3259081cdf2c5ac852be9ff8d8b.gif" width="300" height="300" border="border-radius:50px;" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"
   </a>
   
   ##
