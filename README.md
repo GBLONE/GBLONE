@@ -1,4 +1,4 @@
-### Oi, eu sou o GaBrieL ou GBL, como quiser...👋🏽 ###
+### Oi, eu sou o GaBrieL ou GBL, como você quiser...👋🏽 ###
 ##
 - 🔭 Atualmente não estou trabalhando... 
 - 🌱 Estou estudando; Python/Manipulação de Arquivos/JSON/Banco de Dados/Back-End/Arduino/Etc
