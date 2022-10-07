@@ -1,6 +1,6 @@
 ### Oi, eu sou o GaBrieL ou GBL, como você quiser...👋🏽 ###
 ## 
-- 🌱 Estou estudando; Python/Manipulação de Arquivos/JSON/Banco de Dados/Servidores e Clientes TCP, UDP e FTP/Back-End/Arduino/GET/POST/PUT/Flask/Django/REST API/REST/CyberSecurity/Etc...
+- 🌱 Estudante de; Python/Manipulação de Arquivos/JSON/Banco de Dados/Servidores e Clientes TCP, UDP e FTP/Back-End/Arduino/GET/POST/PUT/Flask/Django/REST API/REST/CyberSecurity/Etc...
 - 😄 Pronomes: ele/dele
 - 🤔 Estou procurando ajuda com uma oportunidade de trabalho!
 - 😎 Aqui é onde você vê mais sobre mim: 👇🏽👇🏽👇🏽
