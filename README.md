@@ -5,8 +5,8 @@
 - 🤔 Estou procurando ajuda com uma oportunidade para ganhar mais experência!
 - 😎 Aqui é onde você vê mais sobre mim: 👇🏽👇🏽👇🏽
 <div align="left">
-<a href="https://github.com/GBLONE"><img height="180cm" src="https://github-readme-stats.vercel.app/api?username=GBLONE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/d076e3259081cdf2c5ac852be9ff8d8b.gif" width="300" height="300" border="border-radius:50px;" alt="https://picasion.com/"/></a><br /><a href="https://picasion.com/"</a>
-  <img height="151cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBLONE&layout=compact&langs_count=7&theme=tokyonight"/>
+<a href="https://github.com/GBLONE"><img height="200cm" src="https://github-readme-stats.vercel.app/api?username=GBLONE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/d076e3259081cdf2c5ac852be9ff8d8b.gif" width="300" height="300" border="border-radius:50px;" alt="https://picasion.com/"/></a><br /><a href="https://picasion.com/"</a>
+  <img height="220cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBLONE&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
