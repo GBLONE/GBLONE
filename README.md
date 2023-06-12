@@ -1,4 +1,4 @@
-### Oi, eu sou o GaBrieL ou GBL, como você quiser...👋🏽 ###
+### Oi, eu sou o Gabriel ou GBL, como você quiser...👋🏽 ###
 ## 
 - 🌱 Estudante de; Python e as Tecnologias que o envolvem!
 - 😄 Pronomes: ele/dele
