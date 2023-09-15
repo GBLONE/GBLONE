@@ -1,8 +1,8 @@
 ### Oi, eu sou o Gabriel ou GBL, como você quiser...👋🏽 ###
 ## 
-- 🌱 Estudante de; Python e as Tecnologias que o envolvem!
+- 🌱 Desenvolvedor de; Python e as Tecnologias que o envolvem!
 - 😄 Pronomes: ele/dele
-- 🤔 Estou procurando ajuda com uma oportunidade para ganhar mais experência!
+- 🤔 Estou procurando uma vaga de trabalho para mostrar o que eu sei!
 - 😎 Aqui é onde você vê mais sobre mim: 👇🏽👇🏽👇🏽
 <div align="left">
 <a href="https://github.com/GBLONE"><img height="180cm" src="https://github-readme-stats.vercel.app/api?username=GBLONE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/d076e3259081cdf2c5ac852be9ff8d8b.gif" width="300" height="300" border="border-radius:50px;" alt="https://picasion.com/"/></a><br /><a href="https://picasion.com/"</a>
