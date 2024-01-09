@@ -1,9 +1,9 @@
 ### Oi, eu sou o Gabriel ou GBL, como você quiser...👋🏽 ###
 ## 
-- 🌱 Desenvolvedor de; Python e as Tecnologias que o envolvem!
-- 😄 Pronomes: ele/dele
-- 🤔 Estou procurando uma vaga de trabalho para mostrar o que eu sei!
-- 😎 Aqui é onde você vê mais sobre mim: 👇🏽👇🏽👇🏽
+- 👨‍💻 Desenvolvedor!
+- 🧍‍♂️ Ele/Dele
+- 👀 Estou procurando minha primeira oportunidade de trabalho!
+
 <div align="left">
 <a href="https://github.com/GBLONE"><img height="180cm" src="https://github-readme-stats.vercel.app/api?username=GBLONE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><a href="https://picasion.com/"><img align="right" src="https://cdn.discordapp.com/attachments/1155276194929967126/1194387782060220527/WhatsApp_Image_2024-01-09_at_18.09.50.jpeg?ex=65b02b4d&is=659db64d&hm=fdf1ac0c5f8df48bada6976dfdd587109dd83a199e6be1802ffa26ef21aa3411&" width="300" height="300" border="border-radius:50px;" alt="https://picasion.com/"/></a><br /><a href="https://picasion.com/"</a>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBLONE&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -22,9 +22,9 @@
   <img align="center" alt="GBL-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
   
           
-  
+ 
   ##
-  
+😎 Aqui é onde você vê mais sobre mim: 👇🏽👇🏽👇🏽 
   <div>
   <a href="https://www.instagram.com/gabriel_s._oliveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/gbl_boladaum" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
