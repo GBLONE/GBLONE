@@ -2,7 +2,7 @@
 ## 
 - 👨‍💻 Desenvolvedor!
 - 🧍‍♂️ Ele/Dele
-- 👀 Estou procurando minha primeira oportunidade de trabalho!
+- Integrante da iBox6!
 
 <div align="left">
 <a href="https://github.com/GBLONE"><img height="350cm" src="https://github-readme-stats.vercel.app/api?username=GBLONE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/f2c8fe700c7c5a23bf4b8ac675dbff9f.gif" width="270" height="270" border="border-radius:50px;" alt="https://picasion.com/"/></a><br /><a href="https://picasion.com/"</a>
